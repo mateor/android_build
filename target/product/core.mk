@@ -165,7 +165,7 @@ ifeq ($(HAVE_SELINUX),true)
         property_contexts \
         mac_permissions.xml \
         selinux-network.sh \
-        SEAndroidManager
+        SEAndroidAdmin
 endif
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
