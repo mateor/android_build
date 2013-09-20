@@ -50,6 +50,7 @@ PRODUCT_PACKAGES += \
     dx \
     ext \
     framework-res \
+    framework2 \
     hprof-conv \
     icu.dat \
     installd \
